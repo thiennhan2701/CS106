@@ -1,0 +1,195 @@
+Uncorrelated-n00050
+Total value = 18331
+Total weight: 11457
+Uncorrelated-n00100
+Total value = 37171
+Total weight: 25730
+Uncorrelated-n00200
+Total value = 78515
+Total weight: 48331
+Uncorrelated-n00500
+Total value = 206712
+Total weight: 128495
+Uncorrelated-n01000
+Total value = 407099 
+Total weight: 248367
+01WeeklyCorrelated-n00050
+Total value = 13539
+Total weight: 12054
+01WeeklyCorrelated-n00100
+Total value = 28042
+Total weight: 25469
+01WeeklyCorrelated-n00200
+Total value = 54945
+Total weight: 49586
+1WeeklyCorrelated-n00500
+Total value = 137409
+Total weight: 124542
+01WeeklyCorrelated-n01000
+Total value = 275845
+Total weight: 249664
+ 02StronglyCorrelated-n00050
+Total value = 15567
+Total weight: 12067
+02StronglyCorrelated-n00100
+Total value = 32470
+Total weight: 25470
+02StronglyCorrelated-n00200
+Total value = 63692
+Total weight: 49592
+02StronglyCorrelated-n00500
+Total value = 159544
+Total weight: 124544
+02StronglyCorrelated-n01000
+Total value = 319253
+Total weight: 249453
+03InverseStronglyCorrelated-n00050
+Total value = 12942
+Total weight: 14542
+03InverseStronglyCorrelated-n00100
+Total value = 27220
+Total weight: 30420
+03InverseStronglyCorrelated-n00200
+Total value = 53293
+Total weight: 59493
+03InverseStronglyCorrelated-n00500
+Total value = 133396
+Total weight: 149296
+03InverseStronglyCorrelated-n01000
+Total value = 266766
+Total weight: 298666
+04AlmostStronglyCorrelated-n00050
+Total value = 15581
+Total weight: 12067
+04AlmostStronglyCorrelated-n00100
+Total value = 32473
+Total weight: 25469
+04AlmostStronglyCorrelated-00200
+Total value = 63713
+Total weight: 49592
+04AlmostStronglyCorrelated-n00500
+Total value = 159552
+Total weight: 124544
+04AlmostStronglyCorrelated-n01000
+Total value = 319402
+Total weight: 249599
+05SubsetSum-n00050
+Total value = 12067
+Total weight: 12067
+05SubsetSum-n00100
+Total value = 25470
+Total weight: 25470
+05SubsetSum-n00200
+Total value = 49592
+Total weight: 49592
+05SubsetSum-n00500
+Total value = 124544
+Total weight: 124544
+05SubsetSum-n01000
+Total value = 249664
+Total weight: 249664
+06UncorrelatedWithSimilarWeights-n00050
+Total value = 18144
+Total weight: 2401260
+06UncorrelatedWithSimilarWeights-n00100
+Total value = 38026
+Total weight: 4902242
+06UncorrelatedWithSimilarWeights-n00200
+Total value = 75455
+Total weight: 9904859
+06UncorrelatedWithSimilarWeights-n00500
+Total value = 186589
+Total weight: 24712444
+06UncorrelatedWithSimilarWeights-n01000
+Total value = 372392 
+Total weight: 49525290 
+07SpannerUncorrelated-n00050
+Total value = 8901
+Total weight: 7245
+07SpannerUncorrelated-n00100
+Total value = 16983
+Total weight: 13689
+07SpannerUncorrelated-n00200
+Total value = 34703
+Total weight: 27097
+07SpannerUncorrelated-n00500
+Total value = 87509
+Total weight: 68287
+07SpannerUncorrelated-n01000
+Total value = 171710
+Total weight: 136330
+08SpannerWeaklyCorrelated-n00050
+Total value = 15144
+Total weight: 5333
+08SpannerWeaklyCorrelated-n00100
+Total value = 28648 
+Total weight: 10195
+08SpannerWeaklyCorrelated-n00200
+Total value = 56456
+Total weight: 20774
+08SpannerWeaklyCorrelated-n00500
+Total value = 142270
+Total weight: 52395
+08SpannerWeaklyCorrelated-n01000
+Total value = 284688
+Total weight: 103111
+09SpannerStronglyCorrelated-n00050
+Total value = 25350
+Total weight: 5350
+09SpannerStronglyCorrelated-n00100
+Total value = 48280
+Total weight: 10180
+09SpannerStronglyCorrelated-n00200
+Total value = 96502
+Total weight: 20802
+09SpannerStronglyCorrelated-n00500
+Total value = 242193
+Total weight: 52393
+09SpannerStronglyCorrelated-n01000
+Total value = 482856
+Total weight: 103156
+10MultipleStronglyCorrelated-n00050
+Total value = 19666
+Total weight: 12066
+10MultipleStronglyCorrelated-n00100
+Total value = 40669
+Total weight: 25469
+10MultipleStronglyCorrelated-n00200
+Total value = 80390
+Total weight: 49590
+10MultipleStronglyCorrelated-n00500
+Total value = 201342
+Total weight: 124542
+10MultipleStronglyCorrelated-n01000
+Total value = 402460
+Total weight: 249660
+11ProfitCeiling-n00050
+Total value = 12060
+Total weight: 12067
+11ProfitCeiling-n00100
+Total value = 25455
+Total weight: 25469
+11ProfitCeiling-n00200
+Total value = 49569
+Total weight: 49592
+11ProfitCeiling-n00500
+Total value = 124491
+Total weight: 124542
+11ProfitCeiling-n01000
+Total value = 249555
+Total weight: 249664
+12Circle-n00050
+Total value = 254262
+Total weight: 12067
+12Circle-n00100
+Total value = 536677
+Total weight: 25470
+12Circle-n00200
+Total value = 1044950
+Total weight: 49592
+12Circle-n00500
+Total value = 2624256
+Total weight: 124544
+12Circle-n01000
+Total value = 5260647
+Total weight: 249664
